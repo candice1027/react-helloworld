@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-helloworld/my-app/build/static/css/main.2cce8147.chunk.css",
-    "main.js": "/react-helloworld/my-app/build/static/js/main.672746a0.chunk.js",
-    "main.js.map": "/react-helloworld/my-app/build/static/js/main.672746a0.chunk.js.map",
+    "main.css": "/react-helloworld/my-app/build/static/css/main.9a1a22da.chunk.css",
+    "main.js": "/react-helloworld/my-app/build/static/js/main.68550c4b.chunk.js",
+    "main.js.map": "/react-helloworld/my-app/build/static/js/main.68550c4b.chunk.js.map",
     "runtime~main.js": "/react-helloworld/my-app/build/static/js/runtime~main.0de1b627.js",
     "runtime~main.js.map": "/react-helloworld/my-app/build/static/js/runtime~main.0de1b627.js.map",
-    "static/js/2.9a82b346.chunk.js": "/react-helloworld/my-app/build/static/js/2.9a82b346.chunk.js",
-    "static/js/2.9a82b346.chunk.js.map": "/react-helloworld/my-app/build/static/js/2.9a82b346.chunk.js.map",
+    "static/js/2.74ed51e8.chunk.js": "/react-helloworld/my-app/build/static/js/2.74ed51e8.chunk.js",
+    "static/js/2.74ed51e8.chunk.js.map": "/react-helloworld/my-app/build/static/js/2.74ed51e8.chunk.js.map",
     "index.html": "/react-helloworld/my-app/build/index.html",
-    "precache-manifest.ccdf713aca05033e0b1f835d741452b5.js": "/react-helloworld/my-app/build/precache-manifest.ccdf713aca05033e0b1f835d741452b5.js",
+    "precache-manifest.9cef16d10979f6a83e04a4345ec7309b.js": "/react-helloworld/my-app/build/precache-manifest.9cef16d10979f6a83e04a4345ec7309b.js",
     "service-worker.js": "/react-helloworld/my-app/build/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/react-helloworld/my-app/build/static/css/main.2cce8147.chunk.css.map"
+    "static/css/main.9a1a22da.chunk.css.map": "/react-helloworld/my-app/build/static/css/main.9a1a22da.chunk.css.map"
   }
 }
