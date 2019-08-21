@@ -2,7 +2,7 @@
   "name": "my-first-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://candice1027.github.io/myapp/build",
+  "homepage" : "http://candice1027.github.io/react-helloworld/myapp/build",
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
