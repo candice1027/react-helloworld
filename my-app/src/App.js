@@ -5,10 +5,10 @@ import Button from './button'
 function App() {
   return (
     <div className="App">
-      <Button ></Button>
-      <Button ></Button>
+      <Button value="click me"></Button>
+      <Button value="click me"></Button>
       <header className="App-header">
-        This is my first react-demo
+        Try to click the button
       </header>
     </div>
   );
